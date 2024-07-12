@@ -3,6 +3,7 @@
 ## 📚 During the analysis, the following libraries were used:
 
 - **Python - pandas**
+- **Matplotlib**
 - **SQL**
 
 
